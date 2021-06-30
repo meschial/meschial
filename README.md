@@ -5,7 +5,7 @@
 <p align = "justify">Sou Programador Full Stack, formado em Sistemas para Internet e cursando uma Pós Graduação em Desenvolvimento de Aplicações para Web e Dispositivos Móveis. Minhas especialidades são Laravel / Vue.Js / Html5 / Sass / Php, estes são meu café da manhã em todos os dias! Também tenho um gostinho especial por Wordpress.
 </p>
 
-stou aprendendo no momento **NodeJs, RabbitMq**
+Estou aprendendo no momento **NodeJs, RabbitMq**
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-marcos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-murilo-meschial/)](https://www.linkedin.com/in/marcos-murilo-meschial/)
